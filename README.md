@@ -4,6 +4,10 @@ Tic-tac-toe is a game in which players alternate placing pieces in a 3 by 3 grid
 
 The files in this repository utilize the SFML 3.0.0 library to display a tic-tac-toe game. The users can play normally by playing alternating turns or they can use the artificial intelligence to make the most optimal move.
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/eed2e11b-1677-4e30-b0e1-4ce10126f75d" width="500" />
+</p>
+
 ## The Tic-Tac-Toe Game
 
 The Tic-tic-toe game is creating by starting with an empty grid. The grid is displayed using the `renderGrid` function. This function directly uses the SFML library circles and rectangles to display a tic-tac-toe board for the user. The different players' pieces are denoted by a red note and a blue circle for the first player and second player respectively.
